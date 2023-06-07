@@ -1,3 +1,3 @@
 # flutter_drag_example
 
-A new Flutter project.
+A reproductible repo for a question on StackOverflow.
